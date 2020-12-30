@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e7008b6.chunk.css",
+    "main.js": "/static/js/main.242a95a5.chunk.js",
+    "main.js.map": "/static/js/main.242a95a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4f37787.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4f37787.js.map",
+    "static/css/2.2d490978.chunk.css": "/static/css/2.2d490978.chunk.css",
+    "static/js/2.490fb3c2.chunk.js": "/static/js/2.490fb3c2.chunk.js",
+    "static/js/2.490fb3c2.chunk.js.map": "/static/js/2.490fb3c2.chunk.js.map",
+    "static/js/3.346a944c.chunk.js": "/static/js/3.346a944c.chunk.js",
+    "static/js/3.346a944c.chunk.js.map": "/static/js/3.346a944c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2d490978.chunk.css.map": "/static/css/2.2d490978.chunk.css.map",
+    "static/css/main.5e7008b6.chunk.css.map": "/static/css/main.5e7008b6.chunk.css.map",
+    "static/js/2.490fb3c2.chunk.js.LICENSE.txt": "/static/js/2.490fb3c2.chunk.js.LICENSE.txt",
+    "static/media/IMG_0193.3fa4eee9.JPG": "/static/media/IMG_0193.3fa4eee9.JPG",
+    "static/media/TE+internship.320e144b.png": "/static/media/TE+internship.320e144b.png",
+    "static/media/coursesone.a572750b.jpg": "/static/media/coursesone.a572750b.jpg",
+    "static/media/eLearning3.814c24ea.jpg": "/static/media/eLearning3.814c24ea.jpg",
+    "static/media/foodbazz.394e4710.png": "/static/media/foodbazz.394e4710.png",
+    "static/media/foolbazz.ec4d1f60.png": "/static/media/foolbazz.ec4d1f60.png",
+    "static/media/loader.db422e86.svg": "/static/media/loader.db422e86.svg",
+    "static/media/navlogo.f599bd96.23370488.svg": "/static/media/navlogo.f599bd96.23370488.svg",
+    "static/media/navlogoScroll.d6db46a9.08979c05.svg": "/static/media/navlogoScroll.d6db46a9.08979c05.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/custom.css": "/static/media/top-banner.a7cd7563.jpg",
+    "static/media/travelapp.fdfc966e.png": "/static/media/travelapp.fdfc966e.png",
+    "static/media/ux-788002_1280.4bbd315a.jpg": "/static/media/ux-788002_1280.4bbd315a.jpg",
+    "static/media/warning.39122bc1.svg": "/static/media/warning.39122bc1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f37787.js",
+    "static/css/2.2d490978.chunk.css",
+    "static/js/2.490fb3c2.chunk.js",
+    "static/css/main.5e7008b6.chunk.css",
+    "static/js/main.242a95a5.chunk.js"
+  ]
+}
